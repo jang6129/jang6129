@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIN&nbsp;SEO&nbsp;JANG&desc=Self-driven&nbsp;Backend&nbsp;Developer&descAlignY=30&fontColor=ffffff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=250&section=header&text=JIN&nbsp;SEO&nbsp;JANG&desc=Self-driven&nbsp;Backend&nbsp;Developer&descAlignY=30&fontColor=ffffff&fontSize=50)
 
 
 <!--
