@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=JIN&nbsp;SEO&nbsp;JANG&descAlignY=30&fontColor=ffffff&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIN&nbsp;SEO&nbsp;JANG&descAlignY=30&fontColor=ffffff&fontSize=50)
+
 
 <!--
 **jang6129/jang6129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
