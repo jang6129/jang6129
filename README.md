@@ -4,7 +4,7 @@
 
 ## 📧Contact
 
-<a href="mailto:jang6129@naver.com"><strong>jang6129@naver.com<strong></a>
+<strong>jang6129@naver.com<strong>
 </br></br></br>
 
 ## 🛠️Teck Stacks
