@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
 
 <strong>Familiar With</strong></br></br>
@@ -32,9 +31,18 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang6129)](https://solved.ac/jang6129/)
 </br></br></br>
 ## 📁Most Recent Project
+<strong>Participated as a Project Leader<strong>
+</br></br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+
 <a href="https://github.com/ProjectKinni">
   <img src="https://drive.google.com/uc?export=view&id=1c6R5hxJaf4wU4db7FOovo6QgY3baoeh2" alt="alt text" style="width: 250px; height: auto;">
 </a>
+
+<strong>↑ Link to Project GitHub<strong>
+
 
 
 </div>
