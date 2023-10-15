@@ -2,12 +2,12 @@
 
 <div align=center>
 
-## 📧Contact
+## 📧 Contact
 
 <strong>jang6129@naver.com<strong>
 </br></br></br>
 
-## 🛠️Teck Stacks
+## 🛠️ Teck Stacks
 <strong>Proficient</strong></br></br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang6129)](https://solved.ac/jang6129/)
 </br></br></br>
-## 📁Most Recent Project
+## 📁 Most Recent Project
 <strong>Participated as a Project Leader<strong>
 </br></br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
