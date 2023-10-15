@@ -1,6 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=JIN&nbsp;SEO&nbsp;JANG&fontAlignY=45&desc=Self-driven&nbsp;Backend&nbsp;Developer&descAlignY=25&fontColor=ffffff&fontSize=40" width=100% />
+
 <div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=JIN&nbsp;SEO&nbsp;JANG&desc=Self-driven&nbsp;Backend&nbsp;Developer&descAlignY=30&fontColor=ffffff&fontSize=40)
 
 ## 📧Contact
 
