@@ -3,8 +3,7 @@
 <div align=center>
 
 ## 📧 Contact
-<br>
-<strong>jang6129@naver.com<strong>
+### jang6129@naver.com
 </br></br>
 
 ## 🛠️ Teck Stacks
