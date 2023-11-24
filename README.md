@@ -39,6 +39,8 @@
 
 <a href="https://github.com/ProjectKinni">
   <img src="https://drive.google.com/uc?export=view&id=1c6R5hxJaf4wU4db7FOovo6QgY3baoeh2" alt="alt text" style="width: 250px; height: auto;">
+  <img src="https://github.com/jang6129/jang6129/assets/66301972/155dfbdb-e4be-430f-898e-eb535e93c0b3" alt="alt text" style="width: 250px; height: auto;">
+  
 </a>
 
 <strong>↑ Link to Project GitHub<strong>
